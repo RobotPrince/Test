@@ -1,1 +1,1 @@
-void static 
+void static main() 
